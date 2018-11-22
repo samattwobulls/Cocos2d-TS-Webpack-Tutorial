@@ -5,9 +5,16 @@ var typescriptbase;
     }
     typescriptbase.sayHello = sayHello;
 })(typescriptbase || (typescriptbase = {}));
-/// <reference path="./greet.ts" />
-var typescriptbase;
-(function (typescriptbase) {
-    var sayHello = typescriptbase.sayHello;
-    console.log(sayHello("TypeScript"));
-})(typescriptbase || (typescriptbase = {}));
+// Tests for greet.ts
+/// <reference path="../typings/globals/mocha/index.d.ts" />
+/// <reference path="../tssrc/greet.ts" />
+var sayHello = typescriptbase.sayHello;
+describe('SayHello', function () {
+    beforeEach(function () {
+    });
+    describe('sayHello', function () {
+        it('should return concatinated string', function () {
+            console.log(sayHello("TypeScript"));
+        });
+    });
+});
