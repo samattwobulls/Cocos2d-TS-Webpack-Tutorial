@@ -1,0 +1,54 @@
+2018-11-22T23:29:46.159Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-22T23:29:46.165Z - normal: checking language setting...
+2018-11-22T23:29:46.165Z - normal: Language: en
+2018-11-22T23:29:46.668Z - success: protocol editor-framework registered
+2018-11-22T23:29:46.669Z - success: protocol app registered
+2018-11-22T23:29:46.669Z - success: protocol theme registered
+2018-11-22T23:29:46.669Z - success: protocol packages registered
+2018-11-22T23:29:46.669Z - success: protocol unpack registerred
+2018-11-22T23:29:46.669Z - success: protocol disable-commonjs registerred
+2018-11-22T23:29:48.070Z - normal: connected!
+2018-11-22T23:29:48.073Z - normal: Check project /Users/samfagan/Desktop/SpringrollCocosTest/starting-typescript-and-cocos2dx/_MyCocosProject/CocosTsGame
+2018-11-22T23:29:48.077Z - normal: Initializing project /Users/samfagan/Desktop/SpringrollCocosTest/starting-typescript-and-cocos2dx/_MyCocosProject/CocosTsGame
+2018-11-22T23:29:48.083Z - normal: Initializing Cocos2d
+2018-11-22T23:29:51.690Z - normal: Initializing Asset Database
+2018-11-22T23:29:51.729Z - success: protocol uuid registerred
+2018-11-22T23:29:51.730Z - success: protocol db registerred
+2018-11-22T23:29:51.730Z - success: protocol thumbnail registerred
+2018-11-22T23:29:51.730Z - normal: Loading editor/builtin packages
+2018-11-22T23:29:51.891Z - success: assets loaded
+2018-11-22T23:29:51.907Z - success: builder loaded
+2018-11-22T23:29:51.909Z - success: cocos-analytics loaded
+2018-11-22T23:29:51.928Z - success: console loaded
+2018-11-22T23:29:51.971Z - success: fb-instant-games loaded
+2018-11-22T23:29:51.991Z - success: hierarchy loaded
+2018-11-22T23:29:52.008Z - success: inspector loaded
+2018-11-22T23:29:52.010Z - success: keystore loaded
+2018-11-22T23:29:52.027Z - success: node-library loaded
+2018-11-22T23:29:52.029Z - success: package-asset loaded
+2018-11-22T23:29:52.030Z - success: preferences loaded
+2018-11-22T23:29:52.045Z - success: project-exporter loaded
+2018-11-22T23:29:52.073Z - success: project-importer loaded
+2018-11-22T23:29:52.086Z - success: project-settings loaded
+2018-11-22T23:29:52.101Z - success: ui-kit loaded
+2018-11-22T23:29:52.116Z - success: scene loaded
+2018-11-22T23:29:52.118Z - success: sprite-editor loaded
+2018-11-22T23:29:52.133Z - success: store loaded
+2018-11-22T23:29:52.150Z - success: timeline loaded
+2018-11-22T23:29:52.150Z - normal: Loading builtin packages
+2018-11-22T23:29:52.169Z - success: asset-db-debugger loaded
+2018-11-22T23:29:52.171Z - success: color-picker loaded
+2018-11-22T23:29:52.172Z - success: jsb-adapter loaded
+2018-11-22T23:29:52.189Z - success: package-manager loaded
+2018-11-22T23:29:52.299Z - success: qqplay-adapter loaded
+2018-11-22T23:29:52.319Z - success: sdkbox loaded
+2018-11-22T23:29:52.339Z - success: tester loaded
+2018-11-22T23:29:52.358Z - success: ui-grid loaded
+2018-11-22T23:29:52.375Z - success: ui-kit-preview-extra loaded
+2018-11-22T23:29:52.392Z - success: ui-kit-preview loaded
+2018-11-22T23:29:52.415Z - success: ui-tree loaded
+2018-11-22T23:29:52.417Z - success: weapp-adapter loaded
+2018-11-22T23:29:53.486Z - normal: Loading packages
+2018-11-22T23:29:53.524Z - normal: Watching packages
+2018-11-22T23:29:53.610Z - normal: Run Application
+2018-11-22T23:29:55.712Z - success: preview server running at http://localhost:7456
